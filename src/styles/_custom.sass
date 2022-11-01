@@ -2,13 +2,424 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 30%
+    right: 75%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 2%
+    right: 45%
+  &-3
+    animation: float1 1.8s ease-in-out infinite alternate
+    position: absolute
+    top: 35%
+    right: 15%    
+
+//banner interno de los temas-------------------------------
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/banner-interno.png") !important
+//--------------------------------------------------------------------------------
+
+///// slyder tema1 --------------------------------------
+.img-a 
+  display: block
+  margin: auto    
+.img-t
+  width: auto
+  height: auto
+.img1
+  width: 140%
+  height: auto
+  max-width: 500%
+  margin-left: -18%
+@media ( max-width: 500px )
+  .img1
+    width: 100%
+    height: auto
+    max-width: 500%
+    margin-left: 0%
+.tarjeta--slyder  
+  height: 100%
+  width: 100%
+  max-width: 120%
+  background-color: #eeeffb
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)
+
+.custom
+  .horizontal-scroll__wrapper
+    padding: 2rem 1.5rem   
+
+@media ( max-width: 500px )
+  .tarjeta--slyder  
+    margin-left: -20%
+    height: 100%
+    width: 100%
+    max-width: 120%
+    background-color: #eeeffb
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)    
+.custom
+  .horizontal-scroll__wrapper
+    padding: 2rem 1.5rem 
+.custom
+  .horizontal-scroll
+    align-items: stretch !important    
+//------------------------------------------------------
+
+//ajuste icono sintesis y color barra-------------------------
+.imagen-sintesis-1
+  position: absolute
+  top: 1rem
+  right: 7%
+  width: 7%
+.titulo-sexto.color-acento-contenido1
+    border-left-color: #ff8f00  
+//-----------------------------------------------------------  
+
+//viñeta para los títulos------------------------------------------------------------
+.vineta-titulos
+  background: url("../assets/curso/temas/icono.svg") !important
+  background-repeat: no-repeat !important
+
+.h2-vineta
+  margin-left: 2%
+//--------------------------------------------------------------------------------------  
+
+//custom 1 bloque-texto-g tema 1--------------------------------
+.blq.bloque-texto-g__img 
+  width: 50%
+  position: absolute
+  top: 0
+  left: 0
+  bottom: 0
+  background-position: center
+  background-size: cover
+  background-color: #e8e8e8
+  padding: 5rem!important;
+
+.blq.bloque-texto-g__texto 
+    position: relative
+    width: 60%
+    background-color: rgba(255, 255, 255, 0.95)
+    left: 2% 
+
+@media ( max-width: 500px )
+  .blq.bloque-texto-g__img 
+    width: 100%
+    position: absolute
+    top: -49px
+    left: 0
+    bottom: 0
+    background-position: center
+    background-size: cover
+    background-color: #e8e8e8
+    padding: 2rem!important;
+
+  .blq.bloque-texto-g__texto 
+      position: relative
+      width: 100%
+      background-color: rgba(255, 255, 255, 0.95)
+      left: 0%     
+
+.lista-ul li > i:first-of-type
+    position: relative
+    top: 4px
+    margin-right: 7px
+    color: #ff004c
+//--------------------------------------------------------------
+
+//custom 2 bloque-texto-g tema 1--------------------------------
+
+.blq2.bloque-texto-g.color-secundario
+    background-color: #e8e8e8
+
+.blq2.bloque-texto-g__img 
+  width: 50%
+  position: absolute
+  top: 0
+  margin-left: 51%
+  bottom: 0
+  background-position: center
+  background-size: cover
+  background-color: #F9E423
+  padding: 4rem!important;
+  z-index: 2
+
+.blq2.bloque-texto-g__texto 
+  position: relative
+  width: 55%
+  background-color: rgba(255, 255, 255, 0.95)
+  left: -44% 
+  z-index: 3
+
+@media ( max-width: 500px )
+  .blq2.bloque-texto-g__img 
+    width: 100%
+    position: absolute
+    top: 293px
+    left: -173px
+    bottom: 0
+    background-position: center
+    background-size: cover
+    background-color: #F9E423
+    padding: 2rem!important;
+    z-index: 2
+
+  .blq2.bloque-texto-g__texto 
+    position: relative
+    width: 100%
+    background-color: rgba(255, 255, 255, 0.95)
+    left: 0%
+    top: -186px
+    z-index: 3   
+
+.lb.lista-ul li > i:first-of-type
+  position: relative
+  top: 4px
+  margin-right: 7px
+  color: #242ca3
+//--------------------------------------------------------------  
+
+//custom 2 bloque-texto-g tema 2--------------------------------
+
+.blq3.bloque-texto-g__img 
+  width: 50%
+  position: absolute
+  top: 0px
+  left: 50%
+  bottom: -1px
+  background-position: center
+  background-size: cover
+  padding: 4rem!important;
+  z-index: 0
+
+.blq3.bloque-texto-g__texto 
+  position: relative
+  width: 100%
+  background-color: rgba(255, 255, 255, 0.95)
+  margin-right: 44% 
+  z-index: 3
+
+@media ( max-width: 500px )
+  .blq3.bloque-texto-g__img 
+    width: 100%
+    position: absolute
+    top: 220px
+    left: 0
+    bottom: 0
+    background-position: center
+    background-size: cover
+    padding: 2rem!important;
+    z-index: 2
+
+  .blq3.bloque-texto-g__texto 
+    position: relative
+    width: 100%
+    background-color: rgba(255, 255, 255, 0.95)
+    left: 6%
+    top: -169px
+    margin-right: 10%
+    z-index: 3 
+
+  .blq3.bloque-texto-g.color-secundario
+    height: 97%
+
+.cajon.lista-ul li > i:first-of-type
+  position: relative
+  top: 4px
+  margin-right: 7px
+  color: #FEBF10
+
+///// acordeon tema 2-------------------------------------- 
+.tarjeta--gris
+  background-color: #f6f6f6 !important
+
+.tarjeta--gris.acordion__activo
+  background-color: #eeeffb !important  
+
+.lv.lista-ul li > i:first-of-type
+  position: relative
+  top: 4px
+  margin-right: 7px
+  color: #1f257f
+//------------------------------------------------
+
+//estilo cajon punto caliente tema 1
+.estilo-cajon
+  background-color: #ffffff
+//-----------------------------------
+
+//cajones de color tema 1
+.cajon.color-secundario1
+    background-color: #ffebf1
+
+.cajon.color-secundario1:before
+    background-color: #ff004c
+
+.cajon.color-secundario2
+    background-color: #fee49a
+
+.cajon.color-secundario2:before
+    background-color: #febf10    
+//-----------------------------------
+
+/// custom para tarjetas avatar tema 1-----------------------
+.color-primario4
+  background-color: #eeeffb !important   
+
+.tarjeta-Hoover1
+  width: 300px !important
+  height: 280px !important 
+.tarjeta-slide__img
+    position: absolute;
+    inset: 0;
+    background-size: cover;
+    background-position: center;
+    transform: translate(0, 0);
+    transition: transform 0.3s ease-in-out;
+    margin: 15px;
+
+@media ( max-width: 500px )
+  .tarjeta-Hoover1
+    width: 280px !important;
+    height: 300px !important;
+    margin-left: -30px;
+
+.horizontal-scroll__wrapper[data-v-e258dbfc]
+    overflow: hidden
+    margin: -10px; 
+
+.slyder-f__main
+    margin-bottom: 30px;
+//-----------------------------------------------------------------
+
+// custom linea de tiempo D--------------------------------  
+.linea-tiempo-d
+  &__item
+    &--selected
+      .linea-tiempo-d
+        &__item
+          &__content
+            background-color: #fdf5af !important
+            &__title
+              font-weight: $base-bold-font-weight
+          &__number
+            font-weight: $base-bold-font-weight
+    &__col-number
+      display: flex
+      flex-direction: column
+
+    &__dots
+      flex: 1
+      display: flex
+      justify-content: center
+      padding: 5px 0
+      &:after
+        content: ''
+        display: block
+        width: 0
+        height: 100%
+        border-left: 5px dotted $color-sistema-e
+    &__number
+      display: flex
+      align-items: center
+      justify-content: center
+      min-width: 40px
+      height: 40px
+      cursor: pointer
+      transition: background-color .3s ease-in-out, color .3s ease-in-out
+    &__content
+      background-color: #F6F6F6 !important     
+      &__title
+        display: flex
+        align-items: center
+        height: 40px
+        cursor: pointer
+        &:hover
+          font-weight: $base-bold-font-weight
+      &__slot
+        overflow: hidden
+        transition: height .5s ease-in-out
+  .tarjeta
+    border-radius: 5px
+.linea-tiempo-d.color-secundario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+  //background-color: #fef9e9 !important
+  color: #12263F
+  
+@media (max-width: 412px)
+  .linea-tiempo-d__item__content__title 
+    height: 85px !important  
+//-----------------------------------------------------------------------
+
+//alinear texto a la derecha tema 1 bloque 1
+.texto-alineado
+  margin-left: 78%
+
+@media( max-width: 500px )
+  .texto-alineado
+    margin-left: 43%
+
+.bloque-texto-b.color-primario3:before 
+  background-color: #fff3cf
+  top: 63px
+  left: 434px
+  right: 2%
+  bottom: 22px 
+@media ( max-width: 500px )
+  .bloque-texto-b.color-primario3:before 
+    background-color: #fff3cf
+    top: 185px
+    left: 120px
+    right: 2%
+    bottom: 18px 
+//------------------------------------------------
+
+///custom linea tiempo C tema 1 
+.tarjeta--tiempo
+  background-color: #eeeffb
+.linea-tiempo-c__header__btn--right, .linea-tiempo-c__header__btn--left
+  background-color: #242ca3
+.linea-tiempo-c__header__btn--right:hover, .linea-tiempo-c__header__btn--left:hover
+  border: #242ca3
+.linea-tiempo-c__header__btn i, .linea-tiempo-c__header__btn--left i, .linea-tiempo-c__header__btn--right i, .pasos-b__header__btn--left i, .pasos-b__header__btn--right i
+  color: white
+.linea-tiempo-c.color-primario .linea-tiempo-c__header__item--active .linea-tiempo-c__header__item__dot::after
+  background-color: #ffffff
+.linea-tiempo-c.color-primario .linea-tiempo-c__header__item--active .linea-tiempo-c__header__item__dot
+  border-color: #febf10
+.linea-tiempo-c.color-primario .linea-tiempo-c__header__item--before .linea-tiempo-c__header__item__line-container:before, .linea-tiempo-c.color-primario .linea-tiempo-c__header__item--before .linea-tiempo-c__header__item__line-container:after
+    background-color: #242ca3
+.linea-tiempo-c.color-primario .linea-tiempo-c__header__item--active .linea-tiempo-c__header__item__line-container:before
+    background-color: #242ca3
+.linea-tiempo-c__header__item__line-container:after, .linea-tiempo-c__header__item__line-container:before
+  content: '';
+  display: block;
+  width: 50%;
+  height: 3px;
+  background-color: #febf10
+//----------------------------------------------------------
+
+//custom bloque texto b tema 2----------------------------------
+.bloque-texto-b.color-primario:before, .bloque-texto-b:before
+    background-color: #fdf5af
+    content: '';
+    display: block;
+    position: absolute;
+    top: 11%;
+    bottom: 147px;
+    left: 1%;
+    right: 789px;
+
+@media ( max-width: 500px )
+  .bloque-texto-b.color-primario:before, .bloque-texto-b:before
+    background-color: #fdf5af
+    content: '';
+    display: block;
+    position: absolute;
+    top: 3%;
+    bottom: 472px;
+    left: 1%;
+    right: 230px;        
+//-----------------------------------------------
 
 
 @keyframes float1
