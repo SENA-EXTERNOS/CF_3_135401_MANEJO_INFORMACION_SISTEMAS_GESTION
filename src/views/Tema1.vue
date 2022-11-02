@@ -182,7 +182,7 @@
               img(src='@/assets/curso/temas/tema1/t1-img11.png', alt='Texto que describa la imagen').img_lineaTD
           .col-lg-8
             LineaTiempoD.color-secundario
-              .row(numero="A" titulo="").color-primario
+              .row(numero="A" titulo="")
                   p.mt-2 ¿El documento permite orientar los procesos productivos o la prestación de servicios de la organización?
 
               .row(numero="B" titulo="")

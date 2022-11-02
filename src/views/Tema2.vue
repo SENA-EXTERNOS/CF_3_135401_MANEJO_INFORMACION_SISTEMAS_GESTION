@@ -21,7 +21,7 @@
 
     .row.justify-content-around.align-items-center
       .col-10
-        .cajon.cajon.cajon.color-secundario2.p-4.mt-5
+        .cajon.color-secundario2.p-4.mt-5
           p(data-aos="fade-down") Al momento de establecer la estructura de elaboración documental, el SGD deberá definir los lineamientos para la elaboración de documentos; dicha estructura o guía, deberá ser oficializada en el marco de la implementación del sistema y todas las áreas y funcionarios implicados, deberán apropiarla y ponerla en marcha para lograr una documentación estructurada.
       p.mt-4 La guía deberá contemplar aspectos como:
 

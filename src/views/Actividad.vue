@@ -9,15 +9,15 @@
           figure
             img(src="@/assets/template/falso-verdadero.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
-        .titulo-segundo
-          h2 Nombre de la actividad
-        p.mb-4 Apreciado aprendiz, a continuación, encontrará una serie de preguntas que deberá resolver, con el objetivo de evaluar la aprehensión de los conocimientos expuestos en este componente formativo.
+        .titulo-segundo.color-acento-contenido
+          h2 Falso o verdadero
+        p.mb-4 Apreciado aprendiz, a continuación encontrará una serie de preguntas que deberá resolver, con el objetivo de evaluar la aprehensión de los conocimientos expuestos en este componente formativo. El servicio es un actividad o acontecimiento planeado y organizado que convoca y reúne a una determinada cantidad de personas en un mismo lugar y al mismo tiempo.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Tipo de actividad
+              p.fw-bold.mb-0 Falso o verdadero
             .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
+              a.boton.boton--b(:href="obtenerLink('/actividades/index.html')" target="_blank")
                 span Realizar
                 i.fas.fa-puzzle-piece
                 
