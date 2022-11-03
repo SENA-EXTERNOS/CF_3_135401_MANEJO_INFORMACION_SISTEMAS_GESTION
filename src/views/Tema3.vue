@@ -103,7 +103,7 @@
             figure
               img(src='@/assets/curso/temas/tema3/t3-img6.png', alt='Texto que describa la imagen').img_lineaTD2
           .col-lg-8
-            LineaTiempoD
+            LineaTiempoD.color-secundario
               .row(numero="1" titulo="Botón 1")
                   p.mt-2 Permite comprender los procesos y sus objetivos. Además, caracteriza las acciones de los mismos.
 

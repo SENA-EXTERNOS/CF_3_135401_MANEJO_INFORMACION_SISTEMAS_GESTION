@@ -64,24 +64,25 @@
             figure
               img(src='@/assets/curso/temas/tema4/t4-img2.png', alt='Texto que describa la imagen').mb-3
           .col-lg-5
-            LineaTiempoD
-              .row(numero="1" titulo="")
-                  p.mt-2 Facilitan el manejo de la información.
-
-              .row(numero="2" titulo="")
-                  p.mt-2 Contribuyen a la correcta administración de la producción documental.
-
-              .row(numero="3" titulo="")
-                  p.mt-2 Permiten gestionar, de manera eficiente, la administración y revisión documental.
-
-              .row(numero="4" titulo="")
-                  p.mt-2 Controlan el acceso a la información y aumentan su seguridad.
-
-              .row(numero="5" titulo="")
-                  p.mt-2 Garantizan la conservación de los documentos, con base en la relevancia de su información y tipificación documental.
-
-              .row(numero="6" titulo="")
-                  p.mt-2 Contribuyen al manejo integral de la información.
+            TabsA.color-acento-botones
+              .tarjeta.p-4(style="background-color:#FFEBF1" titulo="1")
+                .row
+                  p Facilitan el manejo de la información.
+              .tarjeta.p-4(style="background-color:#FFEBF1" titulo="2")
+                .row
+                  p Contribuyen a la correcta administración de la producción documental.
+              .tarjeta.p-4(style="background-color:#FFEBF1" titulo="3")
+                .row
+                  p Permiten gestionar, de manera eficiente, la administración y revisión documental.
+              .tarjeta.p-4(style="background-color:#FFEBF1" titulo="4")
+                .row
+                  p Controlan el acceso a la información y aumentan su seguridad.
+              .tarjeta.p-4(style="background-color:#FFEBF1" titulo="5")
+                .row
+                  p Garantizan la conservación de los documentos, con base en la relevancia de su información y tipificación documental.
+              .tarjeta.p-4(style="background-color:#FFEBF1" titulo="6")
+                .row
+                  p Contribuyen al manejo integral de la información.
 
     .row.justify-content-center.mt-5
       ul.vineta-titulos(data-aos="fade-down-left")

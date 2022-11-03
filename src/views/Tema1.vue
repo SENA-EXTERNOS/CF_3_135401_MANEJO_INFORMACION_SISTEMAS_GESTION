@@ -177,34 +177,35 @@
     .row.justify-content-center.mt-5
       .col-lg-11
         .row
-          .col-lg-4
+          .col-lg-5
             figure
               img(src='@/assets/curso/temas/tema1/t1-img11.png', alt='Texto que describa la imagen').img_lineaTD
-          .col-lg-8
-            LineaTiempoD.color-secundario
-              .row(numero="A" titulo="")
-                  p.mt-2 ¿El documento permite orientar los procesos productivos o la prestación de servicios de la organización?
-
-              .row(numero="B" titulo="")
-                  p.mt-2 ¿Acepta orientar los procesos de verificación, inspección o prueba de los productos o servicios desarrollados por la organización?         
-
-              .row(numero="C" titulo="")
-                  p.mt-2 ¿Establece requisitos relacionados con el cliente, los productos y/o servicios?
-
-              .row(numero="D" titulo="")
-                  p.mt-2 ¿Es útil para realizar el control de procesos?
-
-              .row(numero="E" titulo="")
-                  p.mt-2 ¿Facilita la toma de decisiones por parte del personal de producción?
-
-              .row(numero="F" titulo="")
-                  p.mt-2 ¿Admite recopilar información útil para la toma de decisiones futuras, relacionadas con el alcance del sistema de gestión (como son los formularios)?
-
-              .row(numero="G" titulo="")
-                  p.mt-2 ¿En caso de no ser actualizada, la información contenida en el documento representaría un riesgo para la organización y/o sus clientes?
-
-              .row(numero="H" titulo="")
-                  p.mt-2 ¿Tiene alguna relación con los requisitos del sistema de gestión?                                                                                     
+          .col-lg-7
+            TabsA.color-secundario
+              .tarjeta.p-4(style="background-color:#FDF5AF" titulo="A")
+                .row
+                  p ¿El documento permite orientar los procesos productivos o la prestación de servicios de la organización?
+              .tarjeta.p-4(style="background-color:#FDF5AF" titulo="B")
+                .row
+                  p ¿Acepta orientar los procesos de verificación, inspección o prueba de los productos o servicios desarrollados por la organización?         
+              .tarjeta.p-4(style="background-color:#FDF5AF" titulo="C")
+                .row
+                  p ¿Establece requisitos relacionados con el cliente, los productos y/o servicios?
+              .tarjeta.p-4(style="background-color:#FDF5AF" titulo="D")
+                .row
+                  p ¿Es útil para realizar el control de procesos?
+              .tarjeta.p-4(style="background-color:#FDF5AF" titulo="E")
+                .row
+                  p ¿Facilita la toma de decisiones por parte del personal de producción?
+              .tarjeta.p-4(style="background-color:#FDF5AF" titulo="F")
+                .row
+                  p ¿Admite recopilar información útil para la toma de decisiones futuras, relacionadas con el alcance del sistema de gestión (como son los formularios)?
+              .tarjeta.p-4(style="background-color:#FDF5AF" titulo="G")
+                .row
+                  p ¿En caso de no ser actualizada, la información contenida en el documento representaría un riesgo para la organización y/o sus clientes?
+              .tarjeta.p-4(style="background-color:#FDF5AF" titulo="H")
+                .row
+                  p ¿Tiene alguna relación con los requisitos del sistema de gestión?
 
     .row.justify-content-center
       .col-lg-10.mb-5.mb-lg-0
@@ -230,8 +231,8 @@
 
     .tarjeta.tarjeta--tiempo.p-4(data-aos="fade-right").mt-5
       LineaTiempoC.color-primario(text-small).p-3
-        .row.justify-content-center.align-items-start(titulo="Control de documentos").p-3
-          .col-lg-11
+        .row.justify-content-center.align-items-start(titulo="Control de documentos").lt-c-ubicacion-interna-1
+          .col-lg-10
             .row
               .col-lg-5
                 img(data-aos="zoom-in")(src='@/assets/curso/temas/tema1/t1-img12.png', alt='')        
@@ -252,11 +253,10 @@
                     | Realizar una definición de procesos de auditoría interna de revisión documental. 
                   li 
                     i.fas.fa-angle-right
-                    | Planificar y programar auditorías (abarcar la totalidad de documentos incluidos en el SG).                 
-
-        .row.justify-content-center.align-items-start(titulo="Documentos externos").p-3
-          .col-lg-11
-            .row
+                    | Planificar y programar auditorías (abarcar la totalidad de documentos incluidos en el SG). 
+        .row.justify-content-center.align-items-start(titulo="Documentos externos").lt-c-ubicacion-interna-2
+          .col-lg-10
+            .row              
               .col-lg-5
                 img(data-aos="zoom-in")(src='@/assets/curso/temas/tema1/t1-img13.png', alt='')        
               .col-lg-7
@@ -277,11 +277,10 @@
                   li 
                     i.fas.fa-angle-right
                     | Normas de carácter internacional a las que se acoge la organización, como las ISO.
-                p Una vez identificados los documentos externos, la organización debe establecer los criterios para su control en el marco del sistema de gestión; además se debe formular una lista de distribución, con el fin de determinar la ruta que siguen al interior de la organización y los criterios para su almacenamiento, dado que, en la mayoría de los casos, estos documentos son recibidos en formato físico y es necesario tener identificada su ubicación.
-
-        .row.justify-content-center.align-items-start(titulo="Documentos obsoletos").p-3
-          .col-lg-11
-            .row
+                p Una vez identificados los documentos externos, la organización debe establecer los criterios para su control en el marco del sistema de gestión; además se debe formular una lista de distribución, con el fin de determinar la ruta que siguen al interior de la organización y los criterios para su almacenamiento, dado que, en la mayoría de los casos, estos documentos son recibidos en formato físico y es necesario tener identificada su ubicación.                
+        .row.justify-content-center.align-items-start(titulo="Documentos obsoletos").lt-c-ubicacion-interna-3
+          .col-lg-10
+            .row        
               .col-lg-5
                 img(data-aos="zoom-in")(src='@/assets/curso/temas/tema1/t1-img14.png', alt='')        
               .col-lg-7
@@ -295,12 +294,12 @@
                     | Identificación y disposición en caso de ser conservados.
                 p Con el fin de evitar hacer un uso involuntario de los documentos obsoletos, es necesario definir mecanismos y criterios que eviten la circulación de este tipo de documentos al interior de la organización; para ello es necesario establecer y socializar listas de distribución de la documentación, debido a que, de esta forma, se puede garantizar su identificación oportuna, así como también la efectividad en su gestión.
                 p En caso de requerir el uso de algunos documentos obsoletos, como insumo para la realización de seguimientos comparativos a lo largo de líneas de tiempo, la organización deberá establecer rótulos para identificarlos y que de esta forma se manifieste clara su condición de obsolescencia.
-
-        .row.justify-content-center.align-items-start(titulo="Componentes de la hoja de<br> control de documentos").p-3
-          .col-lg-11
-            .row
+                
+        .row.justify-content-center.align-items-start(titulo="Componentes de la<br>hoja de<br> control de documentos").lt-c-ubicacion-interna-4
+          .col-lg-10
+            .row              
               .col-lg-5
-                img(data-aos="zoom-in")(src='@/assets/curso/temas/tema1/t1-img15.png', alt='')       
+                img(data-aos="zoom-in")(src='@/assets/curso/temas/tema1/t1-img15.png', alt='')        
               .col-lg-7
                 p Posterior a la selección del sistema de gestión documental, es necesario definir los criterios para su operación; en ellos se deben incluir características como nombre, forma de archivo y almacenamiento; de esta manera se espera dar fluidez al sistema y a sus procesos de administración documental.
                 p Algunos criterios que se encuentran relacionados con el archivo de documentos, se mencionan a continuación:
@@ -350,7 +349,7 @@
       p Considerando que existen documentos de origen externo que ingresan a la organización y que tienen relación con los diferentes procesos que en ella se desarrollan, es necesario que el SGD los contemple y los incluya como parte del flujo de la gestión documental, para que, de esta forma, sean caracterizados, identificados y puedan ser tenidos en cuenta para el proceso de análisis de información y toma de decisiones. La organización deberá identificar y determinar los registros externos de relevancia y definir las reglas para su control.
 
     .row.justify-content-around.align-items-center
-      .col-9
+      .col-10
         .cajon.cajon.cajon.color-secundario2.p-4.mt-5
           p(data-aos="fade-down") Los documentos de origen externo, de relevancia para el sistema de gestión documental, pueden contener aspectos como especificaciones logísticas y de producto, hojas de datos de materiales, legislación, normativa, reglamentos externos, instrucciones, entre otros. La organización puede registrar los documentos externos, incluyendo en ellos información como la que se presenta a continuación:
 

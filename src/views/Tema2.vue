@@ -27,7 +27,7 @@
 
     .tarjeta.tarjeta--tiempo.p-4(data-aos="fade-right").mt-4
       LineaTiempoC.color-primario(text-small).p-3
-        .row.justify-content-center.align-items-start(titulo="Objetivo").p-3
+        .row.justify-content-center.align-items-start(titulo="Objetivo").lt2-c-ubicacion-interna-1
           .col-lg-11
             .row
               .col-lg-5
@@ -35,7 +35,7 @@
               .col-lg-7
                 p Se debe detallar lo que se pretende, a través de la implementación de la guía.
 
-        .row.justify-content-center.align-items-start(titulo="Alcance y definiciones").p-3
+        .row.justify-content-center.align-items-start(titulo="Alcance y definiciones").lt2-c-ubicacion-interna-2
           .col-lg-11
             .row
               .col-lg-5
@@ -43,7 +43,7 @@
               .col-lg-7
                 p Después de explicar el alcance de la guía, se establece y se define un glosario de los elementos técnicos que se incluyen en esta.
 
-        .row.justify-content-center.align-items-start(titulo="Condiciones generales").p-3
+        .row.justify-content-center.align-items-start(titulo="Condiciones generales").lt2-c-ubicacion-interna-3
           .col-lg-11
             .row
               .col-lg-5
@@ -51,7 +51,7 @@
               .col-lg-7
                 p Se optimiza la estructura organizacional y las condiciones particulares de los funcionarios que la empresa alberga.
 
-        .row.justify-content-center.align-items-start(titulo="Contenido y desarrollo").p-3
+        .row.justify-content-center.align-items-start(titulo="Contenido y desarrollo").lt2-c-ubicacion-interna-4
           .col-lg-11
             .row
               .col-lg-5
@@ -60,7 +60,7 @@
                 p Documentos del sistema: se categorizan los tipos de documentos que hacen parte del sistema y se les asigna un código alfanumérico, dependiendo de su uso y aplicación. (Ejemplo: Política = PT, Procedimientos = PR).
                 p Contenido de los documentos: se especifica el contenido de cada uno de los tipos de documento que componen el sistema, estableciendo claridad en relación con aspectos como: el objetivo, el alcance, las definiciones, los responsables y la descripción detallada de las actividades, incluyendo un diagrama de flujo.
 
-        .row.justify-content-center.align-items-start(titulo="Contenido y desarrollo").p-3
+        .row.justify-content-center.align-items-start(titulo="Contenido y desarrollo").lt2-c-ubicacion-interna-5
           .col-lg-11
             .row
               .col-lg-5
@@ -78,7 +78,7 @@
                   li 
                     | Consecutivo: 01                
 
-        .row.justify-content-center.align-items-start(titulo="Encabezado").p-3
+        .row.justify-content-center.align-items-start(titulo="Encabezado").lt2-c-ubicacion-interna-6
           .col-lg-11
             .row
               .col-lg-5
@@ -115,7 +115,7 @@
                     span 9. 
                     | Títulos de las secciones (especificar formato de letra /estas celdas no deben ser modificables).
 
-        .row.justify-content-center.align-items-start(titulo="Cuerpo del documento").p-3
+        .row.justify-content-center.align-items-start(titulo="Cuerpo del documento").lt2-c-ubicacion-interna-7
           .col-lg-11
             .row
               .col-lg-5
@@ -123,7 +123,7 @@
               .col-lg-7
                 p Se deben especificar las características de redacción, tamaño y tipo de letra, tipo de títulos y la forma en que debe ser redactado el documento.
 
-        .row.justify-content-center.align-items-start(titulo="Cierre del documento").p-3
+        .row.justify-content-center.align-items-start(titulo="Cierre del documento").lt2-c-ubicacion-interna-8
           .col-lg-11
             .row
               .col-lg-5
@@ -131,7 +131,7 @@
               .col-lg-7
                 p Se debe incluir un cuadro en el que se especifique quiénes fueron los responsables de la elaboración, de la revisión y de la aprobación del documento; dicho cuadro deberá cumplir con las especificaciones técnicas de tamaño, tipo de letra y formato de fecha, definidos en la imagen.
 
-        .row.justify-content-center.align-items-start(titulo="Márgenes del documento").p-3
+        .row.justify-content-center.align-items-start(titulo="Márgenes del documento").lt2-c-ubicacion-interna-9
           .col-lg-11
             .row
               .col-lg-5
@@ -139,7 +139,7 @@
               .col-lg-7
                 p Definición del tipo de márgenes, interlineado y tamaño de letra, que deberán ser aplicados a los documentos.
 
-        .row.justify-content-center.align-items-start(titulo="Diagrama de flujo").p-3
+        .row.justify-content-center.align-items-start(titulo="Diagrama de flujo").lt2-c-ubicacion-interna-10
           .col-lg-11
             .row
               .col-lg-5
@@ -147,7 +147,7 @@
               .col-lg-7
                 p Hay que especificar la simbología incluida en el proceso al que se hace referencia en el documento.
 
-        .row.justify-content-center.align-items-start(titulo="Documentos de referencia").p-3
+        .row.justify-content-center.align-items-start(titulo="Documentos de referencia").lt2-c-ubicacion-interna-11
           .col-lg-11
             .row
               .col-lg-5
@@ -155,7 +155,7 @@
               .col-lg-7
                 p Es importante e imprescindible, incluir la normativa tenida en cuenta para la elaboración del documento.
 
-        .row.justify-content-center.align-items-start(titulo="Control de cambios").p-3
+        .row.justify-content-center.align-items-start(titulo="Control de cambios").lt2-c-ubicacion-interna-12
           .col-lg-11
             .row
               .col-lg-5
@@ -163,7 +163,7 @@
               .col-lg-7
                 p Se debe incluir la fecha, la versión y la descripción de los cambios realizados al documento.
 
-        .row.justify-content-center.align-items-start(titulo="Anexos").p-3
+        .row.justify-content-center.align-items-start(titulo="Anexos").lt2-c-ubicacion-interna-13
           .col-lg-11
             .row
               .col-lg-5
@@ -202,8 +202,9 @@
                 | Repositorios o bancos de documentos.
 
     .row.justify-content-around.align-items-center.mt-5
-      .cajon.color-secundario1.p-4
-        p Los encargados del sistema de gestión documental y la alta dirección, son responsables de los procesos de apropiación por parte de los equipos que hacen parte de la organización; por otro lado, los líderes o responsables del proceso, dada la naturaleza de sus funciones y la familiaridad con el proceso a su cargo, están llamados a identificar las oportunidades de mejora y la actualización de los mismos, con el fin de dar trámite al procedimiento relacionado con su ajuste y posterior aprobación, e inclusión en el sistema de información.
+      .col-lg-11
+        .cajon.color-secundario1.p-4
+          p Los encargados del sistema de gestión documental y la alta dirección, son responsables de los procesos de apropiación por parte de los equipos que hacen parte de la organización; por otro lado, los líderes o responsables del proceso, dada la naturaleza de sus funciones y la familiaridad con el proceso a su cargo, están llamados a identificar las oportunidades de mejora y la actualización de los mismos, con el fin de dar trámite al procedimiento relacionado con su ajuste y posterior aprobación, e inclusión en el sistema de información.
 
 </template>
 
