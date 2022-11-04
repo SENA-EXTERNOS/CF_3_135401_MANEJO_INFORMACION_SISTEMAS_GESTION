@@ -286,11 +286,25 @@
 .tarjeta--rosada.acordion__activo
   background-color: #ffebf1 !important  
 
+
+  
 .lv.lista-ul li > i:first-of-type
   position: relative
   top: 4px
   margin-right: 7px
   color: #1f257f
+
+.tarjeta--verde
+  background-color: #f6f6f6 !important
+
+.tarjeta--verde.acordion__activo
+  background-color: #ffebf1 !important 
+
+.tarjeta--verde.acordion__accion__btn--b 
+  border: 1px solid #111e61!important
+  right: 720px!important
+
+
 //------------------------------------------------  
 
 
@@ -808,6 +822,28 @@
   &::before 
     border-bottom-left-radius: 30px
     border-bottom-right-radius: 30px
+
+//ubicacion botones y texto acordeon A
+  
+.acordion__accion__btn--b
+  border: 1px solid #111e61
+  right: 460px
+
+.acordion__titulo
+  h3
+    margin-left: 70px;
+
+@media ( max-width: 500px )
+  .acordion__accion__btn--b
+    border: 1px solid #111e61
+    right: 250px;
+
+  .acordion__titulo
+    h3
+      margin-left: 70px;
+//-----------------------------------------
+
+
 
 @keyframes float1
   0%

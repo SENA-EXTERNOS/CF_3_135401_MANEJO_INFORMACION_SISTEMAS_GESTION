@@ -16,13 +16,13 @@
 
     .row.mb-5.justify-content-center.align-items-center.align-items-lg-stretch(data-aos="flip-right")
       p A continuación, se introduce la información sobre los elementos que componen un proceso:
-      .col-lg-10
+      .col-lg-9
         figure
           img(src="@/assets/curso/temas/tema3/t3-img2.png", alt="Texto que describa la imagen" data-aos="zoom-in").mt-3.m-auto
 
     .row.justify-content-center
-      .col-lg-10
-        AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--rosada").p-4
+      .col-lg-7
+        AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--verde").p-4
           .row(titulo="Secuencia de los procesos").p-4
             p El enfoque en los procesos requiere de la caracterización de los mismos, con el fin de identificar la cadena de interacciones y las características adecuadas para su gestión; de esta forma, se pretende dar cumplimiento a los objetivos estratégicos de la organización, sustentándolos con una lógica de identificación y gestión de riesgos, el aprovechamiento de oportunidades y la prevención de resultados no deseados. (ISO 9001:2015)
           .row(titulo="Interacción entre los procesos").p-4
@@ -133,9 +133,10 @@
         .bloque-texto-b__texto
           p.mb-0 Con el fin de establecer marcos comunes de entendimiento para este tipo de herramientas, se ha definido una serie de símbolos comúnmente aceptados, para la construcción de diagramas de flujo; esta serie fue propuesta por la ANSI, Instituto Nacional Estadounidense de Estándares (por sus siglas en inglés: American National Standards Institute); a continuación, se presenta una lista de los símbolos más utilizados:      
 
-    .titulo-sexto.color-acento-botones
-      .row
-        p #[strong Figura. ]Ciclo de vida del dato
+    .row.justify-content-around.align-items-center
+      .titulo-sexto.color-acento-botones.mb-3.mt-4
+        h5 Figura 1.
+        span Ciclo de vida del dato
       
     .row.justify-content-center 
       .col-lg-9
@@ -247,7 +248,7 @@
                 i.fas.fa-angle-right
                 | Analizar los datos, con el fin de obtener información procesable.
 
-    .row.justify-content-center.mt-3
+    .row.justify-content-center.mt-5
       p Cada una de las herramientas tiene utilidades y aplicaciones diferentes y están disponibles en el mercado para que las organizaciones accedan a las que consideren más pertinentes, con base en sus características y las especificidades requeridas por sus sistemas de gestión. Al momento de elegir la más adecuada, es necesario verificar que cumpla con los criterios mencionados anteriormente, así como con su funcionalidad.
       p A continuación, se presentan algunas de las herramientas disponibles, junto con una breve descripción:
 

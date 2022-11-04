@@ -54,7 +54,7 @@
           p son documentos expedidos por personas jurídicas o naturales, que no cumplan funciones públicas. 
 
     .row.justify-content-center.mt-5
-      ul(data-aos="fade-down-left")
+      ul.vineta-titulos(data-aos="fade-down-left")
         li
           h2.mb-0.h2-vineta Tipos de documentos y registros
 
@@ -123,7 +123,7 @@
             h3.mt-3 Valoración
             p Determinación del grado de relevancia de los documentos y los criterios para su disposición en el tiempo.
 
-    .row.justify-content-center.mt-5
+    .row.justify-content-center
       ul.vineta-titulos(data-aos="fade-down-left")
         li
           h2.mb-0.h2-vineta Técnicas de actualización
@@ -218,7 +218,7 @@
               p.text-bold.texto-alineado (Ayudaley, s.f.).
             i.fas.fa-quote-right
 
-    .row.justify-content-center.mt-5
+    .row.justify-content-center
       ul.vineta-titulos(data-aos="fade-down-left")
         li
           h2.mb-0.h2-vineta Técnicas de control de documentos
@@ -226,7 +226,7 @@
 
     .row.justify-content-around.align-items-center
       .col-9
-        .cajon.cajon.cajon.color-secundario1.p-4.mt-5
+        .cajon.cajon.cajon.color-secundario1.p-4
           p Para garantizar su efectividad, se deben tener en cuenta las siguientes acciones según #[strong Ayudaley (s.f.).]
 
     .tarjeta.tarjeta--tiempo.p-4(data-aos="fade-right").mt-5
@@ -350,7 +350,7 @@
 
     .row.justify-content-around.align-items-center
       .col-10
-        .cajon.cajon.cajon.color-secundario2.p-4.mt-5
+        .cajon.cajon.cajon.color-secundario2.p-4.mt-3
           p(data-aos="fade-down") Los documentos de origen externo, de relevancia para el sistema de gestión documental, pueden contener aspectos como especificaciones logísticas y de producto, hojas de datos de materiales, legislación, normativa, reglamentos externos, instrucciones, entre otros. La organización puede registrar los documentos externos, incluyendo en ellos información como la que se presenta a continuación:
 
     .row.justify-content-around.aling-items-center.mt-5(data-aos="zoom-in")

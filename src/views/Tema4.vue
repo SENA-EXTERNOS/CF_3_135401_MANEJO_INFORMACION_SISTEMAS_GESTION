@@ -91,7 +91,7 @@
       p Una guía técnica para la elaboración documental, es un documento oficial en el que se establecen los criterios y lineamientos relacionados con la documentación, enmarcado en el Sistema de Gestión Documental; de esta forma, se garantiza la estandarización del proceso.
       p La guía debe contemplar elementos tales como:
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5.mt-5
       .col-lg-9.position-relative
         .avatar
           figure

@@ -86,7 +86,7 @@
               .col-lg-7
                 p Se deberán incluir los elementos que lleva el encabezado, tal y como se muestra en la imagen.
                 p En todas las hojas debe aparecer este cuadro (como en la imagen), que identifica el documento y contiene la siguiente información:
-                ol.lista-ol
+                ol.lista-ol.ps-4
                   li 
                     span 1. 
                     | Logotipo.
