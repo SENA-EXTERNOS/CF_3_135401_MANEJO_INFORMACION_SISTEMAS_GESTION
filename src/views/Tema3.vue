@@ -42,20 +42,23 @@
       .tarjeta-avatar
         img(src='@/assets/curso/temas/tema3/t3-img3.png' alt='AvatarTop')
         .tarjeta.tarjeta--amarilla-1.p-4
-          h2.text-center.mt-5 Procesos operacionales:
-          p.text-center son aquellos sobre los cuales se apoya la organización para asegurar su desempeño y el cumplimiento de su objeto del negocio.
+          h2.text-center.mt-5 Procesos operacionales
+          p.text-center Son aquellos sobre los cuales se apoya la organización para asegurar su desempeño y el cumplimiento de su objeto del negocio.
       
       .tarjeta-avatar
         img(src='@/assets/curso/temas/tema3/t3-img4.png' alt='AvatarTop')
         .tarjeta.tarjeta--amarilla-1.p-4
-          h2.text-center.mt-5 Procesos estratégicos:
-          p.text-center son aquellos que abarcan a todo el sistema y están orientados hacia la búsqueda de la mejora continua.
+          h2.text-center.mt-5 Procesos estratégicos
+          p.text-center Son aquellos que abarcan a todo el sistema y están orientados hacia la búsqueda de la mejora continua.
       
       .tarjeta-avatar
         img(src='@/assets/curso/temas/tema3/t3-img5.png' alt='AvatarTop')
         .tarjeta.tarjeta--amarilla-1.p-4
           h2.text-center.mt-5 Procesos de soporte
-          p.text-center son aquellos sobre los que se sustenta el resto de los procesos y aportan coherencia a todo el conjunto.   
+          p.text-center Son aquellos sobre los que se sustenta el resto de los procesos y aportan coherencia a todo el conjunto.   
+
+    .row.justify-content-center.mt-5
+      p Luego de haber clasificado los procesos, se recomienda representarlos a partir de un gráfico de mapa, de acuerdo con las categorías previamente definidas. Los procesos operacionales se ubican visualmente en la parte central del gráfico; en el caso de los procesos estratégicos y de soporte, deben ser ubicados a los lados, de manera que representen su función de apoyo en relación con los demás procesos.
 
       .col-lg-9.mb-5.mb-lg-0
         .bloque-texto-b.color-primario5.p-4
@@ -93,7 +96,7 @@
         h2 3.2. Diagramas de flujo
 
     .row.justify-content-center
-      p Teniendo en cuenta que los documentos que se integran al sistema de gestión documental tienen una utilidad para los diferentes procesos con los que interactúan, y que la esencia de los sistemas de gestión es el mejoramiento continuo, es importante desarrollar mecanismos que permitan su actualización, de acuerdo con acciones de mejora identificadas por los diferentes individuos o áreas organizacionales que los generan o hacen uso de la información que en ellos se consigna.
+      p Luego de conocer los criterios de la información documentada, se hace necesario exponer entonces, la definición de diagrama de flujo, debido a que es un esquema que permite abarcar, en su totalidad, y representar de forma gráfica, los diferentes pasos que componen un proceso, con el fin de analizarlos y comprenderlos y, de esta forma, identificar oportunidades para su mejora, así como la gestión de posibles riesgos.
       p Algunos de los beneficios de un diagrama de flujo son:
 
     .row.justify-content-center.mt-5
@@ -131,12 +134,12 @@
     .row.justify-content-center
       .bloque-texto-b.color-primario1.p-4
         .bloque-texto-b__texto
-          p.mb-0 Con el fin de establecer marcos comunes de entendimiento para este tipo de herramientas, se ha definido una serie de símbolos comúnmente aceptados, para la construcción de diagramas de flujo; esta serie fue propuesta por la ANSI, Instituto Nacional Estadounidense de Estándares (por sus siglas en inglés: American National Standards Institute); a continuación, se presenta una lista de los símbolos más utilizados:      
+          p.mb-0 Con el fin de establecer marcos comunes de entendimiento para este tipo de herramientas, se ha definido una serie de símbolos comúnmente aceptados, para la construcción de diagramas de flujo; esta serie fue propuesta por la ANSI, Instituto Nacional Estadounidense de Estándares (por sus siglas en inglés: #[em American National Standards Institute]); a continuación, se presenta una lista de los símbolos más utilizados:      
 
     .row.justify-content-around.align-items-center
       .titulo-sexto.color-acento-botones.mb-3.mt-4
         h5 Figura 1.
-        span Ciclo de vida del dato
+        span Símbolos para la construcción de un diagrama de flujo
       
     .row.justify-content-center 
       .col-lg-9
@@ -262,7 +265,7 @@
           .col-lg-7    
             AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--rosada")
               .row(titulo="Kissflow Process").p-4
-                p Permite crear procesos workflows, para operaciones comerciales repetitivas o estructuradas.
+                p Permite crear procesos #[em workflows], para operaciones comerciales repetitivas o estructuradas.
               .row(titulo="Zoho Creator").p-4
                 p Permite diseñar el flujo de trabajo de acuerdo con los objetivos, directrices e indicadores.
               .row(titulo="Bizagi").p-4

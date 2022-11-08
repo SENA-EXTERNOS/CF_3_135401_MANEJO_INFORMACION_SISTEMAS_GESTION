@@ -3,14 +3,6 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    .titulo-sexto.color-acento-contenido1.mb-5
-      .row.mb-2
-        h5 Manejo de información para sistemas de gestión
-      .row
-        span Síntesis: el reporte de datos según sistemas de gestión.
-    
-    img(src="@/assets/curso/temas/sintesis-img1.svg", alt="alt").imagen-sintesis-1
-
     p El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo.
     
 

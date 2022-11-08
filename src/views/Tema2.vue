@@ -57,10 +57,10 @@
               .col-lg-5
                 img(data-aos="zoom-in")(src='@/assets/curso/temas/tema2/t2-img5.png', alt='')        
               .col-lg-7
-                p Documentos del sistema: se categorizan los tipos de documentos que hacen parte del sistema y se les asigna un código alfanumérico, dependiendo de su uso y aplicación. (Ejemplo: Política = PT, Procedimientos = PR).
-                p Contenido de los documentos: se especifica el contenido de cada uno de los tipos de documento que componen el sistema, estableciendo claridad en relación con aspectos como: el objetivo, el alcance, las definiciones, los responsables y la descripción detallada de las actividades, incluyendo un diagrama de flujo.
+                p #[Strong Documentos del sistema:] se categorizan los tipos de documentos que hacen parte del sistema y se les asigna un código alfanumérico, dependiendo de su uso y aplicación. (Ejemplo: Política = PT, Procedimientos = PR).
+                p #[Strong Contenido de los documentos:] se especifica el contenido de cada uno de los tipos de documento que componen el sistema, estableciendo claridad en relación con aspectos como: el objetivo, el alcance, las definiciones, los responsables y la descripción detallada de las actividades, incluyendo un diagrama de flujo.
 
-        .row.justify-content-center.align-items-start(titulo="Contenido y desarrollo").lt2-c-ubicacion-interna-5
+        .row.justify-content-center.align-items-start(titulo="Codificación").lt2-c-ubicacion-interna-5
           .col-lg-11
             .row
               .col-lg-5

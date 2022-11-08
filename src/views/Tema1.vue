@@ -26,37 +26,37 @@
             img(data-aos="flip-left" src='@/assets/curso/temas/tema1/t1-img2.png', alt='Texto que describa la imagen')
 
         .tarjeta.estilo-cajon.p-3(x="31.7%" y="8.5%" numero="1")
-          .h5.mb-2 Textuales:
-          p son los documentos más comunes, su característica general es la inclusión de texto escrito.
+          .h5.mb-2 Textuales
+          p Son los documentos más comunes, su característica general es la inclusión de texto escrito.
         
         .tarjeta.estilo-cajon.p-3(x="56.5%" y="9.5%" numero="2")
-          .h5.mb-2 Iconográficos:
-          p se valen de elementos gráficos para representar la información que en ellos se contiene (mapas, planos, dibujos, fotografías, diapositivas, transparencias, etc.).
+          .h5.mb-2 Iconográficos
+          p Se valen de elementos gráficos para representar la información que en ellos se contiene (mapas, planos, dibujos, fotografías, diapositivas, transparencias, etc.).
 
         .tarjeta.estilo-cajon.p-3(x="21.7%" y="39.2%" numero="3")
-          .h5.mb-2 Sonoros:
-          p comprende elementos en los que se alberga información en formato de audio, bien sea formato análogo o digital.
+          .h5.mb-2 Sonoros
+          p Comprende elementos en los que se alberga información en formato de audio, bien sea formato análogo o digital.
 
         .tarjeta.estilo-cajon.p-3(x="45.7%" y="39.2%" numero="4")
-          .h5.mb-2 Audiovisuales:
-          p son elementos que contienen información que combina audio, imagen y movimiento. 
+          .h5.mb-2 Audiovisuales
+          p Son elementos que contienen información que combina audio, imagen y movimiento. 
 
         .tarjeta.estilo-cajon.p-3(x="69.4%" y="39.2%" numero="5")
-          .h5.mb-2 Electrónicos o informáticos:
-          p son documentos generados por procesamiento en computador y se valen de almacenamiento físico (CD-ROM, memoria o disco duro) o virtual (almacenamiento en la nube).
+          .h5.mb-2 Electrónicos o informáticos
+          p Son documentos generados por procesamiento en computador y se valen de almacenamiento físico (CD-ROM, memoria o disco duro) o virtual (almacenamiento en la nube).
 
         .tarjeta.estilo-cajon.p-3(x="33.6%" y="72.5%" numero="6")
-          .h5.mb-2 Documentos públicos: 
-          p son documentos expedidos por alguna organización o funcionario público.
+          .h5.mb-2 Documentos públicos
+          p Son documentos expedidos por alguna organización o funcionario público.
 
         .tarjeta.estilo-cajon.p-3(x="57.5%" y="72.7%" numero="7")
-          .h5.mb-2 Documentos privados: 
-          p son documentos expedidos por personas jurídicas o naturales, que no cumplan funciones públicas. 
+          .h5.mb-2 Documentos privados
+          p Son documentos expedidos por personas jurídicas o naturales, que no cumplan funciones públicas. 
 
     .row.justify-content-center.mt-5
       ul.vineta-titulos(data-aos="fade-down-left")
         li
-          h2.mb-0.h2-vineta Tipos de documentos y registros
+          h2.mb-0.h2-vineta Técnicas de elaboración
 
     .row.justify-content-around.align-items-center
       .col-9
@@ -79,7 +79,7 @@
             .col-8
               img.img-a.img-t.mb-3(src="@/assets/curso/temas/tema1/t1-img4.png", alt="alt").img100.m-auto   
             h3.mt-3 Producción
-            p Estructuración de las categorías documentales y sistematización de los documentos, de acuerdo con los criterios previamente definidos
+            p Estructuración de las categorías documentales y sistematización de los documentos, de acuerdo con los criterios previamente definidos.
 
         .tarjeta.tarjeta--slyder.p-4
           .row.justify-content-center
@@ -221,13 +221,13 @@
     .row.justify-content-center
       ul.vineta-titulos(data-aos="fade-down-left")
         li
-          h2.mb-0.h2-vineta Técnicas de control de documentos
+          h2.mb-0.h2-vineta Procedimiento de control de documentos
       p El control documental deberá asegurar el cumplimiento de una serie de acciones que se llevan a cabo de manera periódica.
 
     .row.justify-content-around.align-items-center
       .col-9
         .cajon.cajon.cajon.color-secundario1.p-4
-          p Para garantizar su efectividad, se deben tener en cuenta las siguientes acciones según #[strong Ayudaley (s.f.).]
+          p Para garantizar su efectividad, se deben tener en cuenta las siguientes acciones según Ayudaley (s.f.).
 
     .tarjeta.tarjeta--tiempo.p-4(data-aos="fade-right").mt-5
       LineaTiempoC.color-primario(text-small).p-3
@@ -357,7 +357,7 @@
       .col-lg-10
         .blq2.bloque-texto-g.color-secundario.p-2.p-sm-4.p-md-5
           .blq2.bloque-texto-g__img
-            ul.lb.lista-ul.mb-5.mt-5
+            ul.lb.lista-ul.mb-5.mt-3
               li 
                 i.fas.fa-angle-right
                 | Nombre del documento.
@@ -380,7 +380,7 @@
     .row.justify-content-center.mt-5
       p El reglamento de gestión de documentos externos, debe contemplar aspectos tales como:
 
-    .row.justify-content-around.aling-items-center.mt-2
+    .row.justify-content-around.aling-items-center.mt-3
       .col-lg-5(data-aos="zoom-in")
         figure
           img(src='@/assets/curso/temas/tema1/t1-img16.png', alt='Texto que describa la imagen').m-auto
