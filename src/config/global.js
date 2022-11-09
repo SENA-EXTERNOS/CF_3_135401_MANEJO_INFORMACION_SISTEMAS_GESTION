@@ -57,7 +57,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '3.1',
-            titulo: 'Medidas de dispersión y tipos de variables',
+            titulo: 'Criterios de la información documentada',
             hash: 't_3_1',
           },
           {
