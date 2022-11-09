@@ -64,7 +64,7 @@
           .col-lg-11
             .row
               .col-lg-5
-                img(data-aos="zoom-in")(src='@/assets/curso/temas/tema2/t2-img5.png', alt='')        
+                img(data-aos="zoom-in")(src='@/assets/curso/temas/tema2/t2-img15.png', alt='')        
               .col-lg-7
                 p La codificación del sistema de gestión documental, se hará con una combinación de números arábigos y letras mayúsculas, tomando como referencia los tipos de procesos a los que hacen referencia, tal y como se detalla a continuación: Se inicia con las dos primeras letras del nombre del tipo de proceso, seguidas de las dos primeras letras del nombre del proceso; luego, las primeras letras del tipo de documento y, por último, el número consecutivo del documento a dos dígitos. (Estas consideraciones, incluyendo la identificación del tipo de proceso y su nombre, deben ser definidas, previamente, por la alta dirección).
                 p.text-bold Ejemplo:

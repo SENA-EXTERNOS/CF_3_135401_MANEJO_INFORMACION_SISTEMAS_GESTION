@@ -74,7 +74,7 @@
 
     .row.justify-content-center
       #t_3_1.titulo-segundo.color-acento-botones
-        h2 3.1. Medidas de dispersión y tipos de variables
+        h2 3.1. Criterios de la información documentada
 
       p Después de conocer la clasificación de los procesos dentro de la gestión documental, lo invitamos a ver el siguiente video, donde se nos amplía la temática de las especificidades de la información documentada.
       
@@ -201,6 +201,10 @@
                 td #[strong Documento:] documento/registro.
               tr
                 td
+                  .row.justify-content-center
+                    .col-lg-7
+                      figure
+                        img(src='@/assets/curso/temas/tema3/t3-img16.png', alt='Texto que describa la imagen')                 
                 td #[strong Listados:] listados/notas de trabajo acumulado, información referente a la actividad.
               tr.bkg-intermedio
                 td
