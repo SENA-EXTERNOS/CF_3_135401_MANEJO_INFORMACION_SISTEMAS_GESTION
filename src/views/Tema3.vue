@@ -16,7 +16,7 @@
 
     .row.mb-5.justify-content-center.align-items-center.align-items-lg-stretch(data-aos="flip-right")
       p A continuación, se introduce la información sobre los elementos que componen un proceso:
-      .col-lg-9
+      .col-lg-8
         figure
           img(src="@/assets/curso/temas/tema3/t3-img2.png", alt="Texto que describa la imagen" data-aos="zoom-in").mt-3.m-auto
 

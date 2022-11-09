@@ -7,9 +7,10 @@
     
 
     .row.justify-content-center.mt-5
-      .col-lg-10.mb-5
+      .col-lg-7.mb-5
         figure
           img(src="@/assets/curso/temas/sintesis.png", alt="alt")
+    .row.justify-content-center
       .col-auto
         a.anexo.mb-4(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
