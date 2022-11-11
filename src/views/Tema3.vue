@@ -107,28 +107,28 @@
               img(src='@/assets/curso/temas/tema3/t3-img6.png', alt='Texto que describa la imagen').img_lineaTD2
           .col-lg-8
             LineaTiempoD.color-secundario
-              .row(numero="1" titulo="Botón 1")
+              .row(numero="1" titulo="Comprender")
                   p.mt-2 Permite comprender los procesos y sus objetivos. Además, caracteriza las acciones de los mismos.
 
-              .row(numero="2" titulo="Botón 2")
+              .row(numero="2" titulo="Sintetizar")
                   p.mt-2 Sintetiza el análisis de componentes de un proceso.
 
-              .row(numero="3" titulo="Botón 3")
+              .row(numero="3" titulo="Visualizar")
                   p.mt-2 Permite la comprensión global a partir de la visualización, proporcionando información específica para la identificación de posibles mejoras.
 
-              .row(numero="4" titulo="Botón 4")
+              .row(numero="4" titulo="Establecer punto de partida")
                   p.mt-2 Establece un punto de partida para la documentación de procesos y elaboración de procedimientos.
 
-              .row(numero="5" titulo="Botón 5")
+              .row(numero="5" titulo="Pasos clave")
                   p.mt-2 Permite visualizar los pasos claves de un proceso y sus riesgos.
 
-              .row(numero="6" titulo="Botón 6")
+              .row(numero="6" titulo="Participar")
                   p.mt-2 Evidencia el valor y aporte de cada paso, en términos de efectividad.
 
-              .row(numero="7" titulo="Botón 7")
+              .row(numero="7" titulo="Efectividad")
                   p.mt-2 Ofrece participación e involucramiento de los responsables del proceso, en su construcción.
 
-              .row(numero="8" titulo="Botón 8")
+              .row(numero="8" titulo="Analizar")
                   p.mt-2 Es una herramienta básica de análisis de procesos, a nivel organizacional.
 
     .row.justify-content-center
