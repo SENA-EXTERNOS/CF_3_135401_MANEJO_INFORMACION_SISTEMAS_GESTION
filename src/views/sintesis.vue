@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo.
+    p El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo:
     
 
     .row.justify-content-center.mt-5

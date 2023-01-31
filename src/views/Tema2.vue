@@ -204,8 +204,8 @@
     .row.justify-content-around.align-items-center.mt-5
       .col-lg-11
         .cajon.color-secundario1.p-4
-          p Los encargados del sistema de gestión documental y la alta dirección, son responsables de los procesos de apropiación por parte de los equipos que hacen parte de la organización; por otro lado, los líderes o responsables del proceso, dada la naturaleza de sus funciones y la familiaridad con el proceso a su cargo, están llamados a identificar las oportunidades de mejora y la actualización de los mismos, con el fin de dar trámite al procedimiento relacionado con su ajuste y posterior aprobación, e inclusión en el sistema de información.
-
+          p Los encargados del sistema de gestión documental y la alta dirección, son responsables de los procesos de apropiación por parte de los equipos que hacen parte de la organización; por otro lado, los líderes o responsables del proceso, dada la naturaleza de sus funciones y la familiaridad con el proceso a su cargo, están llamados a identificar las oportunidades de mejora y la actualización de los mismos, con el fin de dar trámite al procedimiento relacionado con su ajuste, posterior aprobación, y la inclusión en el sistema de información.
+          
 </template>
 
 <script>

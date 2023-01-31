@@ -18,7 +18,7 @@
 
     .row.justify-content-center.mt-5
       p A través de la exploración de las temáticas, se proponen elementos que orienten hacia el fortalecimiento de procesos que propendan por la calidad y disponibilidad de la información documental, en procura de una gestión eficiente y eficaz de las organizaciones, además del cumplimiento de los requisitos legales.
-      p En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo.
+      p En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo:
 
     .row.mt-5
       .video

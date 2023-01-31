@@ -12,7 +12,7 @@
         figure
           img(src="@/assets/curso/temas/tema1/t1-img1.png", alt="Texto que describa la imagen")
       .col-lg-7
-        p.mt-2 Para comenzar, es importante conocer que los sistemas de gestión definen documento como el conjunto de elementos que se constituyen en un soporte central de la estructura organizacional, y que, además, contienen políticas, procesos, procedimientos, instrucciones y todo aquello que está y no está permitido. También, permiten la trazabilidad de información histórica, informes de auditoría, resultados de acciones, de monitoreo y seguimiento.
+        p.mt-2 Los sistemas de gestión definen documento como: el conjunto de elementos que se constituyen en un soporte central de la estructura organizacional y que, además, contienen políticas, procesos, procedimientos, instrucciones y todo aquello que está y no está permitido. También permiten la trazabilidad de información histórica, informes de auditoría, resultados de acciones, de monitoreo y seguimiento. 
 
     .row.justify-content-center.mt-5
       ul.vineta-titulos(data-aos="fade-down-left")
@@ -127,7 +127,7 @@
       ul.vineta-titulos(data-aos="fade-down-left")
         li
           h2.mb-0.h2-vineta Técnicas de actualización
-      p Teniendo en cuenta que los documentos que se integran al sistema de gestión documental tienen una utilidad para los diferentes procesos con los que interactúan, y que la esencia de los sistemas de gestión es el mejoramiento continuo, es importante desarrollar mecanismos que permitan su actualización, de acuerdo con acciones de mejora identificadas por los diferentes individuos o áreas organizacionales que los generan o hacen uso de la información que en ellos se consigna.
+      p Teniendo en cuenta que los documentos que se integran al sistema de gestión documental tienen una utilidad para los diferentes procesos con los que interactúan y que la esencia de los sistemas de gestión es el mejoramiento continuo, es importante desarrollar mecanismos que permitan su actualización, de acuerdo con acciones de mejora identificadas por los diferentes individuos o áreas organizacionales que los generan o hacen uso de la información que, en ellos, se consigna; para esto, se deben establecer protocolos que permitan que, una vez identificadas las acciones de mejora, se pueda generar un flujo de proceso encaminado hacia la actualización e inclusión, de manera formal, como parte del Sistema de Gestión (SG).
 
     .row.justify-content-around.aling-items-center.mt-5(data-aos="zoom-in")
       .col-lg-10
@@ -170,8 +170,8 @@
       ul.vineta-titulos(data-aos="fade-down-left")
         li
           h2.mb-0.h2-vineta Técnicas de control de documentos
-      p Como parte de la gestión documental, es necesario establecer criterios que permitan garantizar el control a los documentos que se integran al SGD (Sistema de Gestión Documental); para lograrlo, es importante que la organización se plantee una serie de interrogantes que le permitirán verificar la pertinencia de los documentos que deben ser examinados y controlados.
-      p A continuación, se presenta una serie de preguntas orientadoras para realizar el proceso de manera exitosa:
+      p Como parte de la gestión documental, se requiere establecer criterios que permitan garantizar el control a los documentos que se integran al Sistema de Gestión Documental (SGD); para lograrlo, es importante que la organización se plantee una serie de interrogantes que le permitirán verificar la pertinencia de los documentos que deben ser examinados y controlados.
+      p Las siguientes son preguntas orientadoras para realizar el proceso de manera exitosa:
 
 
     .row.justify-content-center.mt-5
@@ -284,7 +284,7 @@
               .col-lg-5
                 img(data-aos="zoom-in")(src='@/assets/curso/temas/tema1/t1-img14.png', alt='')        
               .col-lg-7
-                p Es necesario que la organización defina criterios para identificar e individualizar los documentos obsoletos, con el fin de instaurar rutas de acción que permitan evitar riesgos derivados de su uso; para establecerlas, es necesario tener en cuenta los siguientes criterios:
+                p Es necesario que la organización defina criterios para identificar e individualizar los documentos obsoletos, con el fin de instaurar rutas de acción que permitan evitar riesgos derivados de su uso; para establecerlas, se requiere tener en cuenta los siguientes criterios:
                 ul.lista-ul.mb-3
                   li 
                     i.fas.fa-angle-right

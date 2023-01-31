@@ -76,7 +76,7 @@
       #t_3_1.titulo-segundo.color-acento-botones
         h2 3.1. Criterios de la información documentada
 
-      p Después de conocer la clasificación de los procesos dentro de la gestión documental, lo invitamos a ver el siguiente video, donde se nos amplía la temática de las especificidades de la información documentada.
+      p Después de conocer la clasificación de los procesos dentro de la gestión documental, lo invitamos a ver el siguiente video, donde se nos amplía la temática de las especificidades de la información documentada:
       
       .video
         iframe(data-aos="fade-left" width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -96,7 +96,7 @@
         h2 3.2. Diagramas de flujo
 
     .row.justify-content-center
-      p Luego de conocer los criterios de la información documentada, se hace necesario exponer entonces, la definición de diagrama de flujo, debido a que es un esquema que permite abarcar, en su totalidad, y representar de forma gráfica, los diferentes pasos que componen un proceso, con el fin de analizarlos y comprenderlos y, de esta forma, identificar oportunidades para su mejora, así como la gestión de posibles riesgos.
+      p Luego de conocer los criterios de la información documentada, se hace necesario exponer la definición de diagrama de flujo, debido a que es un esquema que permite abarcar, en su totalidad y representar de forma gráfica, los diferentes pasos que componen un proceso, con el fin de analizarlos y comprenderlos y, de esta forma, identificar oportunidades para su mejora así como, también, la gestión de posibles riesgos.
       p Algunos de los beneficios de un diagrama de flujo son:
 
     .row.justify-content-center.mt-5
@@ -107,29 +107,29 @@
               img(src='@/assets/curso/temas/tema3/t3-img6.png', alt='Texto que describa la imagen').img_lineaTD2
           .col-lg-8
             LineaTiempoD.color-secundario
-              .row(numero="1" titulo="Comprender")
-                  p.mt-2 Permite comprender los procesos y sus objetivos. Además, caracteriza las acciones de los mismos.
+              .row(numero="1" titulo="Comprensión")
+                  p.mt-2 El diagrama de flujo permite comprender los procesos y sus objetivos. Además, caracteriza las acciones de los mismos.
 
-              .row(numero="2" titulo="Sintetizar")
-                  p.mt-2 Sintetiza el análisis de componentes de un proceso.
+              .row(numero="2" titulo="Síntesis")
+                  p.mt-2 Los diagramas sintetizan el análisis de los componentes de un proceso.
 
-              .row(numero="3" titulo="Visualizar")
-                  p.mt-2 Permite la comprensión global a partir de la visualización, proporcionando información específica para la identificación de posibles mejoras.
+              .row(numero="3" titulo="Observación panóptica")
+                  p.mt-2 Permiten la comprensión global, a partir de la visualización, proporcionando información específica para la identificación de posibles mejoras.
 
-              .row(numero="4" titulo="Establecer punto de partida")
-                  p.mt-2 Establece un punto de partida para la documentación de procesos y elaboración de procedimientos.
+              .row(numero="4" titulo="Puntos de partida")
+                  p.mt-2 Los diagramas de flujo establecen un punto de partida para la documentación de procesos y elaboración de procedimientos.
 
-              .row(numero="5" titulo="Pasos clave")
-                  p.mt-2 Permite visualizar los pasos claves de un proceso y sus riesgos.
+              .row(numero="5" titulo="Visión proyectiva")
+                  p.mt-2 Permiten visualizar los pasos claves de un proceso y sus riesgos.
 
-              .row(numero="6" titulo="Participar")
-                  p.mt-2 Evidencia el valor y aporte de cada paso, en términos de efectividad.
+              .row(numero="6" titulo="Medición de efectividad")
+                  p.mt-2 Evidencian el valor y aporte de cada paso, en términos de efectividad.
 
-              .row(numero="7" titulo="Efectividad")
-                  p.mt-2 Ofrece participación e involucramiento de los responsables del proceso, en su construcción.
+              .row(numero="7" titulo="Participación")
+                  p.mt-2 Ofrecen participación e involucramiento de los responsables del proceso, en su construcción.
 
-              .row(numero="8" titulo="Analizar")
-                  p.mt-2 Es una herramienta básica de análisis de procesos, a nivel organizacional.
+              .row(numero="8" titulo="Análisis organizacional")
+                  p.mt-2 Los diagramas son una herramienta básica de análisis de procesos, a nivel organizacional.
 
     .row.justify-content-center
       .bloque-texto-b.color-primario1.p-4
@@ -138,8 +138,9 @@
 
     .row.justify-content-around.align-items-center
       .titulo-sexto.color-acento-botones.mb-3.mt-4
-        h5 Figura 1.
-        span Símbolos para la construcción de un diagrama de flujo
+        h5 Figura 1
+        p.mb-0
+          em Símbolos para la construcción de un diagrama de flujo
       
     .row.justify-content-center 
       .col-lg-9
