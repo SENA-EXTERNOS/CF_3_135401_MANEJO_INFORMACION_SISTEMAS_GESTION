@@ -96,7 +96,7 @@
         h2 3.2. Diagramas de flujo
 
     .row.justify-content-center
-      p Luego de conocer los criterios de la información documentada, se hace necesario exponer la definición de diagrama de flujo, debido a que es un esquema que permite abarcar, en su totalidad y representar de forma gráfica, los diferentes pasos que componen un proceso, con el fin de analizarlos y comprenderlos y, de esta forma, identificar oportunidades para su mejora así como, también, la gestión de posibles riesgos.
+      p Luego de conocer los criterios de la información documentada, se hace necesario exponer la definición de diagrama de flujo, debido a que es un esquema que permite abarcar, en su totalidad, y representar de forma gráfica, los diferentes pasos que componen un proceso, con el fin de analizarlos y comprenderlos y, de esta forma, identificar oportunidades para su mejora así como, también, la gestión de posibles riesgos.
       p Algunos de los beneficios de un diagrama de flujo son:
 
     .row.justify-content-center.mt-5

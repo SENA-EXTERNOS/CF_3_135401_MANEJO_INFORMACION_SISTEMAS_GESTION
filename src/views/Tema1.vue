@@ -237,6 +237,8 @@
               .col-lg-5
                 img(data-aos="zoom-in")(src='@/assets/curso/temas/tema1/t1-img12.png', alt='')        
               .col-lg-7
+                br
+                
                 p En el control de documentos se debe:
                 ul.lista-ul
                   li 
