@@ -80,7 +80,7 @@
       
       .video
         iframe(data-aos="fade-left" width="560" height="315" src="https://www.youtube.com/embed/clR8JWBPfsc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption VIDEO
+
 
       p.mt-3 El SGC de una empresa debe garantizar la disposición de la totalidad de la información documentada requerida por la norma ISO 9001; por tal motivo, se debe establecer como criterio obligatorio para garantizar el correcto funcionamiento del Sistema de Gestión de la Calidad.
 
