@@ -22,7 +22,7 @@
 
     .row.mt-5
       .video
-        iframe(data-aos="fade-left" width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(data-aos="fade-left" width="560" height="315" src="https://www.youtube.com/embed/VSBbypPsO_o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption VIDEO
 
 </template>
