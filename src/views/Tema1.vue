@@ -132,8 +132,8 @@
     .row.justify-content-around.aling-items-center.mt-5(data-aos="zoom-in")
       .col-lg-10
         .bloque-texto-g.color-secundario.p-2.p-sm-4.p-md-5
-          .blq.bloque-texto-g__img
-            p #[strong Para esto, es necesario establecer protocolos que permitan que, una vez identificadas las acciones de mejora, se pueda generar un flujo de proceso encaminado a la actualización e inclusión de manera formal como parte del SG (Sistema de Gestión); para originarlo es necesario determinar los siguientes aspectos:]
+          .blq.bloque-texto-g__img.j
+            h4 #[strong Para originarlo es necesario determinar los siguientes aspectos:]
           .blq.bloque-texto-g__texto.p-4
             ul.lista-ul.mb-3
               li 
@@ -349,11 +349,6 @@
         li
           h2.mb-0.h2-vineta Información documentada externa
       p Considerando que existen documentos de origen externo que ingresan a la organización y que tienen relación con los diferentes procesos que en ella se desarrollan, es necesario que el SGD los contemple y los incluya como parte del flujo de la gestión documental, para que, de esta forma, sean caracterizados, identificados y puedan ser tenidos en cuenta para el proceso de análisis de información y toma de decisiones. La organización deberá identificar y determinar los registros externos de relevancia y definir las reglas para su control.
-
-    .row.justify-content-around.align-items-center
-      .col-10
-        .cajon.cajon.cajon.color-secundario2.p-4.mt-3
-          p(data-aos="fade-down") Los documentos de origen externo, de relevancia para el sistema de gestión documental, pueden contener aspectos como especificaciones logísticas y de producto, hojas de datos de materiales, legislación, normativa, reglamentos externos, instrucciones, entre otros. La organización puede registrar los documentos externos, incluyendo en ellos información como la que se presenta a continuación:
 
     .row.justify-content-around.aling-items-center.mt-5(data-aos="zoom-in")
       .col-lg-10
