@@ -385,7 +385,7 @@
       .col-lg-7    
         AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--gris").p-4
           .row(titulo="El Control").p-4
-            p El control de cambios y pertinencia de los mismos, así como su vigencia y el impacto que los cambios realizados por el emisor, puedan tener en los procesos internos; una vez definidos, es posible diseñar una matriz de relación entre la empresa, los procesos de gestión documental y los emisores de los documentos externos.
+            p El control de cambios y pertinencia de los mismos, así como su vigencia y el impacto de los cambios realizados por el emisor, puedan tener en los procesos internos; una vez definidos, es posible diseñar una matriz de relación entre la empresa, los procesos de gestión documental y los emisores de los documentos externos.
           .row(titulo="Documentos").p-4
             p Documentos de origen externo que sean relevantes.
           .row(titulo="Responsabilidad").p-4

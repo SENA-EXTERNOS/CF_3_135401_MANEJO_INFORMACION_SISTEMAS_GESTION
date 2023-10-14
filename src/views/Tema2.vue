@@ -28,7 +28,7 @@
     .tarjeta.tarjeta--tiempo.p-4(data-aos="fade-right").mt-4
       LineaTiempoC.color-primario(text-small).p-3
         .row.justify-content-center.align-items-start(titulo="Objetivo").lt2-c-ubicacion-interna-1
-          .col-lg-11
+          .col-lg-10
             .row
               .col-lg-5
                 img(data-aos="zoom-in")(src='@/assets/curso/temas/tema2/t2-img2.png', alt='')        
@@ -36,7 +36,7 @@
                 p Se debe detallar lo que se pretende, a través de la implementación de la guía.
 
         .row.justify-content-center.align-items-start(titulo="Alcance y definiciones").lt2-c-ubicacion-interna-2
-          .col-lg-11
+          .col-lg-10
             .row
               .col-lg-5
                 img(data-aos="zoom-in")(src='@/assets/curso/temas/tema2/t2-img3.png', alt='')        
@@ -44,7 +44,7 @@
                 p Después de explicar el alcance de la guía, se establece y se define un glosario de los elementos técnicos que se incluyen en esta.
 
         .row.justify-content-center.align-items-start(titulo="Condiciones generales").lt2-c-ubicacion-interna-3
-          .col-lg-11
+          .col-lg-10
             .row
               .col-lg-5
                 img(data-aos="zoom-in")(src='@/assets/curso/temas/tema2/t2-img4.png', alt='')        
@@ -52,7 +52,7 @@
                 p Se optimiza la estructura organizacional y las condiciones particulares de los funcionarios que la empresa alberga.
 
         .row.justify-content-center.align-items-start(titulo="Contenido y desarrollo").lt2-c-ubicacion-interna-4
-          .col-lg-11
+          .col-lg-10
             .row
               .col-lg-5
                 img(data-aos="zoom-in")(src='@/assets/curso/temas/tema2/t2-img5.png', alt='')        
@@ -61,7 +61,7 @@
                 p #[Strong Contenido de los documentos:] se especifica el contenido de cada uno de los tipos de documento que componen el sistema, estableciendo claridad en relación con aspectos como: el objetivo, el alcance, las definiciones, los responsables y la descripción detallada de las actividades, incluyendo un diagrama de flujo.
 
         .row.justify-content-center.align-items-start(titulo="Codificación").lt2-c-ubicacion-interna-5
-          .col-lg-11
+          .col-lg-10
             .row
               .col-lg-5
                 img(data-aos="zoom-in")(src='@/assets/curso/temas/tema2/t2-img15.png', alt='')        
@@ -79,7 +79,7 @@
                     | Consecutivo: 01                
 
         .row.justify-content-center.align-items-start(titulo="Encabezado").lt2-c-ubicacion-interna-6
-          .col-lg-11
+          .col-lg-10
             .row
               .col-lg-5
                 img(data-aos="zoom-in")(src='@/assets/curso/temas/tema2/t2-img6.png', alt='')        
@@ -116,7 +116,7 @@
                     | Títulos de las secciones (especificar formato de letra /estas celdas no deben ser modificables).
 
         .row.justify-content-center.align-items-start(titulo="Cuerpo del documento").lt2-c-ubicacion-interna-7
-          .col-lg-11
+          .col-lg-10
             .row
               .col-lg-5
                 img(data-aos="zoom-in")(src='@/assets/curso/temas/tema2/t2-img7.png', alt='')        
@@ -124,7 +124,7 @@
                 p Se deben especificar las características de redacción, tamaño y tipo de letra, tipo de títulos y la forma en que debe ser redactado el documento.
 
         .row.justify-content-center.align-items-start(titulo="Cierre del documento").lt2-c-ubicacion-interna-8
-          .col-lg-11
+          .col-lg-10
             .row
               .col-lg-5
                 img(data-aos="zoom-in")(src='@/assets/curso/temas/tema2/t2-img8.png', alt='')        
@@ -132,7 +132,7 @@
                 p Se debe incluir un cuadro en el que se especifique quiénes fueron los responsables de la elaboración, de la revisión y de la aprobación del documento; dicho cuadro deberá cumplir con las especificaciones técnicas de tamaño, tipo de letra y formato de fecha, definidos en la imagen.
 
         .row.justify-content-center.align-items-start(titulo="Márgenes del documento").lt2-c-ubicacion-interna-9
-          .col-lg-11
+          .col-lg-10
             .row
               .col-lg-5
                 img(data-aos="zoom-in")(src='@/assets/curso/temas/tema2/t2-img9.png', alt='')        
@@ -140,7 +140,7 @@
                 p Definición del tipo de márgenes, interlineado y tamaño de letra, que deberán ser aplicados a los documentos.
 
         .row.justify-content-center.align-items-start(titulo="Diagrama de flujo").lt2-c-ubicacion-interna-10
-          .col-lg-11
+          .col-lg-10
             .row
               .col-lg-5
                 img(data-aos="zoom-in")(src='@/assets/curso/temas/tema2/t2-img10.png', alt='')        
@@ -148,7 +148,7 @@
                 p Hay que especificar la simbología incluida en el proceso al que se hace referencia en el documento.
 
         .row.justify-content-center.align-items-start(titulo="Documentos de referencia").lt2-c-ubicacion-interna-11
-          .col-lg-11
+          .col-lg-10
             .row
               .col-lg-5
                 img(data-aos="zoom-in")(src='@/assets/curso/temas/tema2/t2-img11.png', alt='')        
@@ -156,7 +156,7 @@
                 p Es importante e imprescindible, incluir la normativa tenida en cuenta para la elaboración del documento.
 
         .row.justify-content-center.align-items-start(titulo="Control de cambios").lt2-c-ubicacion-interna-12
-          .col-lg-11
+          .col-lg-10
             .row
               .col-lg-5
                 img(data-aos="zoom-in")(src='@/assets/curso/temas/tema2/t2-img12.png', alt='')        
@@ -164,7 +164,7 @@
                 p Se debe incluir la fecha, la versión y la descripción de los cambios realizados al documento.
 
         .row.justify-content-center.align-items-start(titulo="Anexos").lt2-c-ubicacion-interna-13
-          .col-lg-11
+          .col-lg-10
             .row
               .col-lg-5
                 img(data-aos="zoom-in")(src='@/assets/curso/temas/tema2/t2-img13.png', alt='')        
